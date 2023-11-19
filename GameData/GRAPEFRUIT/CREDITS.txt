@@ -1,4 +1,12 @@
-dawn did some stuff
-LinuxGuruGamer internals and textures
-PicoSpace posters
-atomictech cfg writing
+ORANGES assets and ConversionModule4's dome
+by EStreetRockets CC BY-NC-SA 4.0
+
+Tokomak assets
+by LinuxGuruGamer and Porkjet internalCC-NC-SA-4.0
+
+
+NF_GYM_Bike_Seat.mu modified from NF props, all NF props assets originally created by Nertea CC-NC-SA-4.0
+
+all other content by Dawn0303 and AtomicTech CC-NC-SA-4.0
+
+(PicoSpace posters)
