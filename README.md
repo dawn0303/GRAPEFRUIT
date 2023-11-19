@@ -18,6 +18,8 @@ current roadmap > https://trello.com/b/HotZGiLM/grapefruit <
 
 to use this mod, mount a conversion module to the bottom of the tank you want to convert, then attach the desired habitats to the converter, and assemble them when the tank has drained
 
+[Currently there is a bug with moduleanimategeneric, animated habs wont appear until you move crew around the vessel, resets every time you change vessel or load a save, this is being worked on]
+
 (we're on the honor system right now y'all so don't go using those habs until the fuel is out ok?)
 
 now currently the mod adds converters and inflatable habs, the plan eventually is to have a module make sure the tank is empty, but im not really at that level so any offers of help would be much appreciated!
