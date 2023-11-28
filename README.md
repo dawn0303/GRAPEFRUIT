@@ -1,10 +1,11 @@
 # G.R.A.P.E.F.R.U.I.T. [HELP WANTED]
  Gateway Residence for Astronauts Providing Enhanced Facilities for Researching and Understanding Interstellar Travel
  https://forum.kerbalspaceprogram.com/topic/220714-wip-grapefruit-formerlytankhabs-help-wanted/
- ![image](https://github.com/dawn0303/GRAPEFRUIT/assets/60470011/9b5b9511-993d-40d4-aeb5-79610992dd64)
- art by brickmack [TWT](https://twitter.com/brickmack) [DA](https://www.deviantart.com/brickmack/art/Go-big-or-go-home-863236039)
- ![image](https://github.com/dawn0303/GRAPEFRUIT/assets/60470011/32652cc9-c6eb-4c6b-bd2a-2150cc524bc5)
-(orange tank courtesy of ORANGES)
+![image](https://github.com/dawn0303/GRAPEFRUIT/assets/60470011/726a05d4-f510-4209-9af1-8a9f54928385)
+ ship based on art by brickmack [TWT](https://twitter.com/brickmack) [DA](https://www.deviantart.com/brickmack/art/Go-big-or-go-home-863236039)
+ ![image](https://github.com/dawn0303/GRAPEFRUIT/assets/60470011/eee15ef2-e051-4205-8756-cca11f9663b8)
+
+(orange tank courtesy of ORANGES, shuttle from ShuttleOrbiterConstructionKit)
 
 
 
