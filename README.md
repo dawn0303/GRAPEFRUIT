@@ -18,8 +18,7 @@ the mod currently comes with habs for 5m tanks, with 3.75m and 2.5m planned
 current roadmap > https://trello.com/b/HotZGiLM/grapefruit <
 
 to use this mod, mount a conversion module to the bottom of the tank you want to convert, then attach the desired habitats to the converter, and assemble them when the tank has drained
-
-[Currently there is a bug with moduleanimategeneric, animated habs wont appear until you move crew around the vessel, resets every time you change vessel or load a save, this is being worked on]
+https://youtu.be/hgMhNfQgqo4
 
 (we're on the honor system right now y'all so don't go using those habs until the fuel is out ok?)
 
