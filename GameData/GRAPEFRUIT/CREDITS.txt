@@ -7,6 +7,8 @@ NF_GYM_Bike_Seat.mu modified from NF props, all NF props assets originally creat
 
 HabUtils.dll is distributed under the MIT License, originally by Nertea for the mod Stockalike Station Parts Redux
 
+assistance with interior designs and concepts from AstroWolfie https://forum.kerbalspaceprogram.com/profile/223932-astrowolfie/
+
 all other content by Dawn0303 and AtomicTech CC-NC-SA-4.0
 
 (PicoSpace posters)
